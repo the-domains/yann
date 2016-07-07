@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yann Schaub - Portfolio]]></title>
+        <description><![CDATA[Yann Schaub - Portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jul 2016 14:30:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kickstarter Case Study (UXDI spec work)]]></title>
+            <description><![CDATA[<article><h1>Kickstarter Case Study (UXDI spec work)</h1><h2>The Brief</h2><p>Providing a recurring payment tool that enables Kickstarter Creators and Backers to engage in more meaningful and sustainable ongoing relationships.</p></article>]]></description>
+            <link>undefinedkickstarter-case-study-uxdi-spec-work/index.html</link>
+            <guid isPermaLink="false">807ecd8c-e492-43d4-b3ec-b9a82818fb26</guid>
+            <pubDate>Thu, 07 Jul 2016 14:29:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
